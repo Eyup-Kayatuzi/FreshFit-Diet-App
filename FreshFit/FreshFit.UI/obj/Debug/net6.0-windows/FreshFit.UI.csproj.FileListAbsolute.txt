@@ -1,0 +1,1069 @@
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsActivity.resources
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsEndOfDayReports.resources
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsFood.resources
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsProfile.resources
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsReports.resources
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsActivity.resources
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsEndOfDayReports.resources
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsFood.resources
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsProfile.resources
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsReports.resources
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsActivity.resources
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsEndOfDayReports.resources
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsFood.resources
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsProfile.resources
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsReports.resources
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsActivity.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsEndOfDayReports.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsFood.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsProfile.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsReports.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsActivity.resources
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsEndOfDayReports.resources
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsFood.resources
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsProfile.resources
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsReports.resources
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsActivity.resources
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsEndOfDayReports.resources
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsFood.resources
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsProfile.resources
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsReports.resources
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsActivity.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsEndOfDayReports.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsFood.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsProfile.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsActivity.resources
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsEndOfDayReports.resources
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsFood.resources
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsProfile.resources
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsWeightCalculator.resources
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsBMICalculator.resources
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsMealReports.resources
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RememberUser.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RememberUser.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsBMICalculator.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsMealReports.resources
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsWeightCalculator.resources
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RememberUser.resources
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsActivity.resources
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsBMICalculator.resources
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsEndOfDayReports.resources
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsFood.resources
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsMealReports.resources
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsProfile.resources
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsWeightCalculator.resources
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RememberUser.resources
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsActivity.resources
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsBMICalculator.resources
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsEndOfDayReports.resources
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsFood.resources
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsMealReports.resources
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsProfile.resources
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsWeightCalculator.resources
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RememberUser.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsActivity.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsBMICalculator.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsEndOfDayReports.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsFood.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsMealReports.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsProfile.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsWeightCalculator.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RememberUser.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsActivity.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsBMICalculator.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsEndOfDayReports.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsFood.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsMealReports.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsProfile.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsWeightCalculator.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RememberUser.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsActivity.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsBMICalculator.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsEndOfDayReports.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsFood.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsMealReports.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsProfile.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsWeightCalculator.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.exe
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.deps.json
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.runtimeconfig.json
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.BLL.pdb
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.DAL.pdb
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\bin\Debug\net6.0-windows\FreshFit.Model.pdb
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.AssemblyReference.cache
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.HomePage.resources
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Login.resources
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RegistrationScreen.resources
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.RememberUser.resources
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Forms.Welcome.resources
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsActivity.resources
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsBMICalculator.resources
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsEndOfDayReports.resources
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsFood.resources
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsMealReports.resources
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsProfile.resources
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.ProfileControls.ProfileControlsWeightCalculator.resources
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.Properties.Resources.resources
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.GenerateResource.cache
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfoInputs.cache
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.AssemblyInfo.cs
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CoreCompileInputs.cache
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.csproj.CopyComplete
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\refint\FreshFit.UI.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.pdb
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\FreshFit.UI.genruntimeconfig.cache
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.UI\obj\Debug\net6.0-windows\ref\FreshFit.UI.dll

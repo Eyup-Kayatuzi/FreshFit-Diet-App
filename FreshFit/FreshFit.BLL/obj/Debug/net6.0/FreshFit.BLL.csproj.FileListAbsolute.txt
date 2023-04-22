@@ -1,0 +1,255 @@
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\BARAN\Desktop\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\2\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\Diyet_Programi\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\ozgur\OneDrive\Desktop\Son-Hali\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\BARAN\Desktop\sona yakın\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\eypky\OneDrive\Desktop\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\++++++++++++++++\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\BARAN\Desktop\Yeni klasör (6)\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\Sonhali\Son-Hali1736\son\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-4 -Gökçehan_Eyüp_Baran_Burak_1\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\HP\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.deps.json
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.DAL.pdb
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\bin\Debug\net6.0\FreshFit.Model.pdb
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.AssemblyReference.cache
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfoInputs.cache
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.AssemblyInfo.cs
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CoreCompileInputs.cache
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.csproj.CopyComplete
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\refint\FreshFit.BLL.dll
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\FreshFit.BLL.pdb
+C:\Users\eypky\OneDrive\Desktop\EF.Diet_Projesi_Group-3 -Gökçehan_Eyüp_Baran_Burak\FreshFit.UI\FreshFit.BLL\obj\Debug\net6.0\ref\FreshFit.BLL.dll
